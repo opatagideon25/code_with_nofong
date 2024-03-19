@@ -1,0 +1,5 @@
+Name	Gender	Age	Rich
+Nana	M	23.6	TRUE
+Esi f	25	FaLsE
+Kofi	M	30	false
+Kwame	m	22.5	True

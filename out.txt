@@ -1,0 +1,15 @@
+NAME
+GENDER
+AGE
+RICH
+NANA
+M
+ESI
+F
+KOFI
+M
+KWAME
+M
+
+
+

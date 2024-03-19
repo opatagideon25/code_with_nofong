@@ -1,0 +1,19 @@
+public class takeHomeAssignment {
+//    CREATE A CLASS FOR UMAT OF ITS STUDENTS HAVING THE FOLLOWING DETAILS
+//    NAME
+//    YOB
+//    HOMETOWN
+//    DEPARTMENT
+//    PROGRAMME
+//    YEAR OF STUDY
+//    HOSTEL/HALL
+//    CWA
+//    GENDER
+//    INDEX NUMBER
+//    LOAN+
+
+//     YOU SHOULD BE ABLE TO CHANGE
+//    PROGRAMME
+//    DEPT
+//    CWA
+}
